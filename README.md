@@ -5,3 +5,9 @@
 ```
 npm instal
 ```
+
+
+
+```
+node app.js
+```
